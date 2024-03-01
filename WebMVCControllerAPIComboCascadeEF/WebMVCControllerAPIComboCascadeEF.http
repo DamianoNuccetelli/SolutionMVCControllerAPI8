@@ -1,0 +1,6 @@
+@WebMVCControllerAPIComboCascadeEF_HostAddress = http://localhost:5183
+
+GET {{WebMVCControllerAPIComboCascadeEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
